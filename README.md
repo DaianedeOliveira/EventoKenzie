@@ -1,4 +1,4 @@
-# Evento Kenzie 🤓
+# Evento Kenzie - DIO 🤓
 ## Essa landing page foi criada durante o evento Kenzie, no entanto eu modifiquei o propósito do projeto.
 
 # Objetivo 🎯
